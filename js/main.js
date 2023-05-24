@@ -1,0 +1,2 @@
+const generala = new Game();
+
